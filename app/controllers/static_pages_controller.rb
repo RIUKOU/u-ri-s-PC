@@ -2,12 +2,18 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  def help
+  def cookie
   end
 
-  def about
+  def session
   end
-  
+
   def contact
+  end
+
+  def similarity
+  end
+
+  def difference
   end
 end
